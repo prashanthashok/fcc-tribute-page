@@ -4,4 +4,6 @@ This Tribute Page is created for Dr. A.P.J. Abdul Kalam as part of freeCodeCamp'
 
 Technologies used: HTML, CSS
 
+Deployed using GitHub pages.
+
 Link: https://prashanthashok.github.io/fcc-tribute-page/
