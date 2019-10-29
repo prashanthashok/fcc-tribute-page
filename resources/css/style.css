@@ -110,9 +110,12 @@ ul {
     flex-wrap: wrap;
   }
 } */
-/* @media all and (max-width: 839px) {
-  ...;
+ @media all and (max-width: 839px) {
+  #main {
+    width: 100vw;
+ /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+  }
 }
-@media all and (max-width: 480px) {
+/*@media all and (max-width: 480px) {
   ...;
 } */
